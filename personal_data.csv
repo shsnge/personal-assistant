@@ -3,7 +3,7 @@ Field,Value
 "Age","27"
 "Gender","Male"
 "Marital Status","Married"
-"Marriage Date","25 Dec 2020"
+"Marriage Date","23 Dec 2020"
 "Children","2 Daughters, 1 Son"
 "Father","Retired Teacher"
 "Siblings","3 Brothers (all married)"
@@ -27,4 +27,5 @@ Field,Value
 "Current Learning","AI Full Stack (Machine Learning, Deep Learning, Generative AI, Full Stack Development)"
 "Blog Topics","Self-improvement, Productivity, Fashion, E-commerce"
 "Future Goals","Become a full-stack AI developer and create innovative apps"
+
 
